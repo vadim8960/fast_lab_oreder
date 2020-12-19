@@ -1,0 +1,3 @@
+/home/vadim/programs/c_lang/fast_lab_oreder/task2_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vadim/programs/c_lang/fast_lab_oreder/task2_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vadim/programs/c_lang/fast_lab_oreder/task2_2/cmake-build-debug/CMakeFiles/task2_2.dir
