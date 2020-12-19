@@ -1,6 +1,6 @@
 
-./task*/cmake-build-debug/
-./task*/.idea/
+task*/cmake-build-debug/
+task*/.idea/
 
 # Prerequisites
 *.d
